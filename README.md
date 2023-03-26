@@ -37,12 +37,12 @@
 ![Amazon CloudWatch](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+CloudWatch&color=FF4F8B&logo=Amazon+CloudWatch&logoColor=FFFFFF&label=Cloud)
 ![AWS Lambda](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+Lambda&color=222222&logo=AWS+Lambda&logoColor=FF9900&label=Cloud)
 
-## 🌱 What I'm Currently Working On 🌱
+## 🌱 What I'm Currently Working On
 
 - Studying to take the AWS Solutions Architect Associate Certificate in April 2023
 - A serverless pipeline for analyzing SEC log data, stay tuned
 
-## 🎶Album Of The Month🎶
+## 🎶 Album Of The Month
 <p>The Power of the Spirit - Isaiah J. Thompson</p>
 
 - [Spotify](https://open.spotify.com/album/1rZYyWPLTCaED9z294E9CN?si=RY-dVpNoQZKckPuBlA0rSw)
