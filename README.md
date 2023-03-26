@@ -1,10 +1,11 @@
 <h1 align="center">👋🏿 Hey there, I'm CJ Sanon 👋🏿</h1>
 
 <h3 align="center">A data and software engineer, voracious learner, and avid music listener</h3>
+<h3 align="center">I'm available for hire. Seeking data, software, or cloud engineer positions.</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/carlvin-sanon" target="blank">
-    <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="18px" />
+    <img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" />
   </a>
  </p>
  
