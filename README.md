@@ -40,6 +40,7 @@
 ## 🌱 What I'm Currently Working On
 
 - Studying to take the AWS Solutions Architect Associate Certificate in April 2023
+- Finishing up Domain-Driven Design
 - A serverless pipeline for analyzing SEC log data, stay tuned
 
 ## 🎶 Album Of The Month
