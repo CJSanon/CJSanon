@@ -10,8 +10,8 @@
  </p>
  
 <p class="rich-diff-level-zero" align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=CJSanon&theme=dark&mode=weekly">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=CJSanon&theme=dark&mode=weekly" alt="GitHub Streak" style="max-width:100%;">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=CJSanon&theme=dark&mode=daily">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=CJSanon&theme=dark&mode=daily" alt="GitHub Streak" style="max-width:100%;">
    </a>
  </p>
  
