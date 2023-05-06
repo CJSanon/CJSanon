@@ -43,8 +43,9 @@
 - Finishing up Domain-Driven Design
 - A serverless pipeline for analyzing SEC log data, stay tuned
 
-## 🎶 Album Of The Month
-<p>The Power of the Spirit - Isaiah J. Thompson</p>
+## 🎶 EP Of The Month
+<p>Shield - salute</p>
 
-- [Spotify](https://open.spotify.com/album/1rZYyWPLTCaED9z294E9CN?si=RY-dVpNoQZKckPuBlA0rSw)
-- [Apple Music](https://music.apple.com/us/album/the-power-of-the-spirit/1661341296)
+- [Spotify](https://open.spotify.com/album/7r2DO2kRoV44v9hdfgAQKr?si=2CnYNNA-TjGVxmejZYHnfw)
+- [Apple Music](https://music.apple.com/gb/album/shield-ep/1676610854)
+- [Bandcamp](https://saluteaut.bandcamp.com/album/shield?from=hpnn)
