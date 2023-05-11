@@ -1,7 +1,6 @@
 <h1 align="center">👋🏿 Hey there, I'm CJ Sanon</h1>
 
 <h3 align="center">A data and software engineer, voracious learner, and avid music listener.</h3>
-<h3 align="center">I'm available for hire. Seeking data, software, or cloud engineer positions.</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/carlvin-sanon" target="blank">
