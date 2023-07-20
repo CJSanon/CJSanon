@@ -42,8 +42,8 @@
 - Pipelines like I'm a Mario brother
 
 ## 🎶 EP Of The Month
-<p>Shield - salute</p>
+<p>Process - Sampha</p>
 
-- [Spotify](https://open.spotify.com/album/7r2DO2kRoV44v9hdfgAQKr?si=2CnYNNA-TjGVxmejZYHnfw)
-- [Apple Music](https://music.apple.com/gb/album/shield-ep/1676610854)
-- [Bandcamp](https://saluteaut.bandcamp.com/album/shield?from=hpnn)
+- [Spotify](https://open.spotify.com/album/4fRcYn1zNOHY5LJXuRmJHI?si=rkZzK3z6RPORfUXrBsNS6A)
+- [Apple Music](https://music.apple.com/us/album/process/1138217713)
+- [Bandcamp](https://sampha.bandcamp.com/album/process-bonus-edition)
