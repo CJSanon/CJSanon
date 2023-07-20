@@ -42,7 +42,7 @@
 - Studying to take the AWS Solutions Architect Associate Certificate in 2023
 - Pipelines like I'm a Mario brother
 
-## 🎶 EP Of The Month
+## 🎶 Album/EP Of The Month
 <p>Process - Sampha</p>
 
 - [Spotify](https://open.spotify.com/album/4fRcYn1zNOHY5LJXuRmJHI?si=rkZzK3z6RPORfUXrBsNS6A)
