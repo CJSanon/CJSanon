@@ -2,11 +2,12 @@
 
 <h3 align="center">A data and software engineer, voracious learner, and avid music listener.</h3>
 
-<p align="center">
+<!--- <p align="center">
   <a href="https://linkedin.com/in/carlvin-sanon" target="blank">
     <img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" />
   </a>
  </p>
+ --->
  
 <p class="rich-diff-level-zero" align="center">
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=CJSanon&theme=dark&mode=daily">
