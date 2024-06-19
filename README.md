@@ -39,7 +39,7 @@
 
 ## 🌱 What I'm Currently Working On
 
-- Studying to take the AWS Solutions Architect Associate Certificate in 2023
+- Studying to take the AWS Solutions Architect Associate Certificate in 2024
 - Pipelines like I'm a Mario brother
 
 ## 🎶 Album/EP Of The Month
