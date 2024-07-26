@@ -39,12 +39,11 @@
 
 ## 🌱 What I'm Currently Working On
 
-- Studying to take the AWS Solutions Architect Associate Certificate in 2024
-- Pipelines like I'm a Mario brother
+- What can't go in the air fryer
 
-## 🎶 Album/EP Of The Month
-<p>Process - Sampha</p>
+## 🎶 Album/EP Of The Summer
+<p>TRUE MAGIC - salute</p>
 
-- [Spotify](https://open.spotify.com/album/4fRcYn1zNOHY5LJXuRmJHI?si=rkZzK3z6RPORfUXrBsNS6A)
-- [Apple Music](https://music.apple.com/us/album/process/1138217713)
-- [Bandcamp](https://sampha.bandcamp.com/album/process-bonus-edition)
+- [Spotify](https://open.spotify.com/album/0K7hOcNhAGs54ANFnXw6uM?si=CKJvmC9TR0usRQdQltAZJw)
+- [Apple Music](https://music.apple.com/us/album/true-magic/1732069006)
+- [Bandcamp](https://saluteaut.bandcamp.com/album/true-magic)
