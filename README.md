@@ -41,9 +41,9 @@
 
 - What can't go in the air fryer
 
-## 🎶 Album/EP Of The Summer
-<p>TRUE MAGIC - salute</p>
+## 🎶 Album/EP Of The Winter
+<p>GNX - Kendrick Lamar</p>
 
-- [Spotify](https://open.spotify.com/album/0K7hOcNhAGs54ANFnXw6uM?si=CKJvmC9TR0usRQdQltAZJw)
-- [Apple Music](https://music.apple.com/us/album/true-magic/1732069006)
-- [Bandcamp](https://saluteaut.bandcamp.com/album/true-magic)
+- [Spotify](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW?si=gCCLenA1QwiazquMa6ljeA)
+- [Tidal](https://tidal.com/browse/album/401317276?u)
+- [Apple Music](https://music.apple.com/us/album/gnx/1781270319)
