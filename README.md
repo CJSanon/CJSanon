@@ -44,6 +44,6 @@
 ## 🎶 Album/EP Of The Winter
 <p>GNX - Kendrick Lamar</p>
 
-- [Spotify](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW?si=gCCLenA1QwiazquMa6ljeA)
 - [Tidal](https://tidal.com/browse/album/401317276?u)
+- [Spotify](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW?si=gCCLenA1QwiazquMa6ljeA)
 - [Apple Music](https://music.apple.com/us/album/gnx/1781270319)
