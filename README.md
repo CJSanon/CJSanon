@@ -29,6 +29,7 @@
 ## 🌱 What I'm Currently Working On
 
 - What can't go in the air fryer
+- Vertical AI agents
 
 ## 🎶 Album/EP I'm Currently Listening To
 <p>My Method Actor - Nilüfer Yanya</p>
