@@ -32,8 +32,8 @@
 - Vertical AI agents
 
 ## 🎶 Album/EP I'm Currently Listening To
-<p>My Method Actor - Nilüfer Yanya</p>
+<p>Lotus - Little Simz</p>
 
-- [Tidal](https://tidal.com/browse/album/368529995?u)
-- [Spotify](https://open.spotify.com/album/4BBVZgRsWeNVgGmub6LY3p?si=nLJwt6hNTJyFdddTLgXzUA)
-- [Apple Music](https://music.apple.com/us/album/my-method-actor/1743430197)
+- [Tidal](https://tidal.com/browse/album/439599724?u)
+- [Spotify](https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X?si=7eeMFgrNQhKPgoeSVvLlDQ)
+- [Apple Music](https://music.apple.com/us/album/lotus/1794880972)
